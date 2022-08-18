@@ -1,0 +1,5 @@
+- 👋 Olá meu nome é Pedro, seja bem vindo ao meu portifólio. 
+- 🐱‍🏍 Criei este git para compartilhar o meu conhecimento e aprender novas linguagem e ferramentas.
+- 🌱 Ao contrario de muitos, a linguagem que eu mais gosto é JAVA, terá bastante disso aqui.
+- 🙆🏻‍♂️ Fiquem à vontade, todo trabalho aqui compartilhado poderá ser utilizado por todos.
+- 🧾 Qualquer duvida me contate por Email ou no Linkedin.
