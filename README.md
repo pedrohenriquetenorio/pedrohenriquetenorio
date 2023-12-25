@@ -5,10 +5,11 @@ Pedro Tenório
 
 - 👋 Olá meu nome é Pedro e seja bem vindo ao meu portifólio. 
 - 📚 Sou formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo.
+- 📚 Atualmente Curso Pós Graduação da linguagrem java na Instituto Federal do Paraná.
 - 🐱‍🏍 Criei este git para compartilhar o meu conhecimento e aprender novas linguagem e ferramentas.
 - 🌱 Ao contrário de muitos, a linguagem que eu mais gosto é JAVA, terá bastante disso por aqui.
 - 🙆🏻‍♂️ Fiquem à vontade, o trabalho público aqui compartilhado poderá ser utilizado por todos.
-- 🧾 Qualquer dúvida me contate por Email ou no Linkedin.
+- 🧾 Qualquer dúvida me contate por Email ou no Linkedin links abaixo!
 </br>
   <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
@@ -29,7 +30,6 @@ Pedro Tenório
   <a href = "mailto:pedrohenriquetenorio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-tenorio-1b754317a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
 
