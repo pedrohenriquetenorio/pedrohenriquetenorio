@@ -3,33 +3,53 @@
 Pedro Tenório
 </h1>
 
-- 👋 Olá meu nome é Pedro e seja bem vindo ao meu portifólio. 
-- 📚 Sou formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo.
-- 📚 Atualmente Curso Pós Graduação da linguagrem java na Instituto Federal do Paraná.
-- 🐱‍🏍 Criei este git para compartilhar o meu conhecimento e aprender novas linguagem e ferramentas.
-- 🌱 Ao contrário de muitos, a linguagem que eu mais gosto é JAVA, terá bastante disso por aqui.
-- 🙆🏻‍♂️ Fiquem à vontade, o trabalho público aqui compartilhado poderá ser utilizado por todos.
-- 🧾 Qualquer dúvida me contate por Email ou no Linkedin links abaixo!
-</br>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Pedro-ANGULAR" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Pedro-SPRING" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Pedro-POSTGRESQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Pedro-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-</div>
+<h1 align="center">Olá! Eu sou [Seu Nome] 👋</h1>
 
-  ##
- <div> 
-  <a href="https://instagram.com/pedrohtenorio_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:pedrohenriquetenorio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-tenorio-1b754317a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+<p align="center">
+Desenvolvedor Java Backend | Pós-Graduado em Java | Apaixonado por APIs REST, banco de dados e arquitetura limpa.
+</p>
 
-</div>
+---
+
+### 👨‍💻 Sobre mim
+
+🎓 Sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Desenvolvimento Java.  
+🚀 Em transição de carreira do suporte técnico para o desenvolvimento backend.  
+💡 Tenho interesse especial por:  
+- Projetos de gestão empresarial (ERP, financeiro, cadastro de clientes/produtos)  
+- Boas práticas de arquitetura (camadas, SOLID, DTOs)  
+- Banco de dados relacional e modelagem (MySQL / PostgreSQL)  
+
+---
+
+### 🛠️ Tecnologias que venho estudando e usando:
+
+- 💻 Java 17, Spring Boot, Maven, Hibernate/JPA  
+- 🔐 Spring Security, JWT, validação com Bean Validation  
+- 🧪 JUnit, Mockito (testes básicos)  
+- 🌐 REST APIs, Postman  
+- 🛢️ MySQL, PostgreSQL  
+- 📦 Git, GitHub, GitHub Actions  
+- 🐳 Docker (básico)
+
+---
+
+### 📂 Meus projetos em destaque:
+
+| Projeto | Descrição | Tecnologias |
+|--------|------------|--------------|
+| [sistema-pessoas-api](https://github.com/seu-usuario/sistema-pessoas-api) | API de cadastro de pessoas com validação e autenticação | Java, Spring Boot, MySQL |
+| [financeiro-app](https://github.com/seu-usuario/financeiro-app) *(futuro projeto)* | Sistema financeiro com controle de caixa e relatórios | Java, Spring Boot, JPA |
+
+---
+
+### 📫 Contato
+
+📧 **Email**: seuemail@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario/)  
+🐙 [GitHub](https://github.com/seu-usuario)
+
+---
+
+<p align="center">🚀 Em constante evolução. Vamos crescer juntos!</p>
 
