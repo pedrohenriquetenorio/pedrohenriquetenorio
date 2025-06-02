@@ -44,5 +44,5 @@ Desenvolvedor Java Backend | Pós-Graduado em Java | Apaixonado por APIs REST, b
 💼 [LinkedIn](https://www.linkedin.com/in/pedrohenriquetenorio/)  
 ---
 
-<p align="center">🚀 Em constante evolução. Vamos crescer juntos!</p>
+<p align="center">🚀 Transformando ideias em codigo JAVA!</p>
 
